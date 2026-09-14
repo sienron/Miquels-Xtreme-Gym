@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: url("images/UserProfileLandingPAge3.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 436px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 11px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 312px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 38px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 221px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-left: 91px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 149px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 4px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 1px;
+  }
+}
